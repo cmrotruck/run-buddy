@@ -1,0 +1,50 @@
+*{
+    /* all styles unless otherwise noted below */
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* body styles */
+    color: #39a6b2;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header{
+    /* header styles */
+    padding: 20px 35px;
+    background-color: #39a6b2;
+}
+
+header h1{
+    /* styles for h1 in the header */
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    display: inline;
+}
+
+header a{
+    /* styles for a in the header */
+    text-decoration: none;
+    color: #fce138;
+}
+
+header nav{
+    /* styles for nav in the header */
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li{
+    /* styles for list items in the list in the nav in the header */
+    display: inline;
+}
+
+header nav ul li a{
+    /* styles for a in the list items in the list in the nav in the header */
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
