@@ -2,6 +2,7 @@
     /* all styles unless otherwise noted below */
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -47,4 +48,31 @@ header nav ul li a{
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+}
+
+footer{
+    /* footer style */
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+footer h2{
+    /* style for h2 in footer */
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+footer div{
+    /* style for div in footer */
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+footer a{
+    /* style for a in footer */
+    color: #024e76;
 }
