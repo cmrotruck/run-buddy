@@ -8,6 +8,7 @@
     /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
+    /* background-image: url('../images/hero-bg.jpg'); */
   }
   
   /* apply styles to <header> */
@@ -123,6 +124,7 @@
   
   .intro {
     text-align: center;
+    background-color: white;
   }
   
   .intro p {
