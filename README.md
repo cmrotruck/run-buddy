@@ -12,3 +12,5 @@ https://cmrotruck.github.io/run-buddy/
 
 ## Contributions
 Made with ❤️ by Chad Rotruck
+
+### ©️2019 Run Buddy, Inc 
